@@ -1,0 +1,60 @@
+body{
+    background-color: #f5d9d5;
+    font-family: 'Nunito',sans-serif;
+}
+
+.volly h2{
+    color: #EA1C2C;
+    font-weight: 100;
+    font-size: 2rem;
+}
+
+.volly p{
+    color: #f498b8;
+    font-weight: 100;
+    font-size: 0.8rem;
+    line-height: 2.5;
+}
+
+.content{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#navcomponents{
+    color: black;
+}
+
+#mainNav .nav-link{
+    color: white;
+}
+
+#mainNav .navbar-brand{
+    color: #EA1C2C;
+    font-size: 1.2rem;
+}
+
+#mainNav :hover{
+    color: #EA1C2C;
+}
+
+#mainNav{
+    font-size: 1.2rem;
+    font-weight: 100;
+}
+
+#headingGroup span{
+    color:#EA1C2C;
+}
+
+#headingGroup h1{
+    font-weight: 100;
+    font-size: 3.5rem;
+}
+
+@media (max-width: 1200px) {
+    #headingGroup h1{
+        font-weight: 100;
+        font-size: 3em;
+    }
+}
